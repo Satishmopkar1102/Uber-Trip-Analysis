@@ -1,5 +1,5 @@
 
-# Uber Trip Analysis Dashboard (Power BI) | Data Analyst Portfolio Project
+# Uber Trip Analysis
 
 ## Overview
 This repository contains a **Power BI dashboard project** focused on analysing Uber trip data to derive insights on **bookings, revenue, trip efficiency, time-based demand, and location performance**.  
@@ -105,17 +105,8 @@ This project transforms raw trip data into **interactive dashboards** to support
 ---
 
 ## Repository Contents
-- **Uber Trip Analysis by Satish.pbix** – Power BI dashboard file
+- **Uber Trip Analysis.pbix** – Power BI dashboard file
 - **README.md** – Project documentation
 
 ---
 
-## Skills Highlighted (ATS Keywords)
-Power BI, Data Analysis, Business Intelligence, DAX, Data Visualization, KPI Analysis, Dashboard Development, Data Modeling, Analytical Thinking
-
----
-
-## Author
-**Satish Mopkar**  
-MSc Mathematics | Aspiring Data Analyst  
-Skills: Power BI, DAX, SQL, Excel, Data Analysis, Data Visualization
